@@ -1,0 +1,47 @@
+_repo: Children-of-the-lighthouse_75180
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Goodridge, Elinor M. (Elinor Moody)
+    alias: Goodridge, Elinor Moody
+    birthdate: 1886
+    deathdate: 1973
+    gutenberg_agent_id: '57871'
+    url: http://www.gutenberg.org/2009/agents/57871
+creator:
+  author:
+    agent_name: Smith, Nora Archibald
+    alias: Smith, Nora A. (Nora Archibald)
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '8693'
+    url: http://www.gutenberg.org/2009/agents/8693
+    wikipedia: https://en.wikipedia.org/wiki/Nora_Archibald_Smith
+description: ''
+gutenberg_issued: '2025-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75180'
+  lccn: '24022121'
+language: en
+pgterms:marc904: https://archive.org/details/childrenoflighth0000nora/mode/2up
+pgterms:marc905: 20241225133335smith
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, Sue Clark, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Lighthouses -- Juvenile fiction'
+- !lcsh 'San Francisco Bay (Calif.) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Children of the lighthouse
+url: http://www.gutenberg.org/ebooks/75180
